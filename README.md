@@ -4,13 +4,13 @@ Getting-and-Cleaning-Data-Assignment
 Coursera Course: Getting and Cleaning Data
 
 Assignment Submission Files
-- [run_analysis.R](https://github.com/vivekkranjan/Getting-and-Cleaning-Data-Assignment/blob/master/run_analysis.R)
-- [README.md](https://github.com/vivekkranjan/Getting-and-Cleaning-Data-Assignment/blob/master/README.md)
-- [CookBook.md](https://github.com/vivekkranjan/Getting-and-Cleaning-Data-Assignment/blob/master/CodeBook.md)
+- [run_analysis.R](https://github.com/vivekkranjan/Getting-and-Cleaning-Data-Assignement/blob/master/run_analysis.R)
+- [README.md](https://github.com/vivekkranjan/Getting-and-Cleaning-Data-Assignement/blob/master/README.md)
+- [CookBook.md](https://github.com/vivekkranjan/Getting-and-Cleaning-Data-Assignement/blob/master/CodeBook.md)
 
 Instructions
 
-1. Checkout the code using 'git checkout https://github.com/vivekkranjan/Getting-and-Cleaning-Data-Assignment.git Directory_Name'
+1. Checkout the code using 'git checkout https://github.com/vivekkranjan/Getting-and-Cleaning-Data-Assignement.git Directory_Name'
 
 2. Download the data set, https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
