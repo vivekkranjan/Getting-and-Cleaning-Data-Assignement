@@ -8,7 +8,7 @@ Assignment Submission Files
 - [README.md](https://github.com/vivekkranjan/Getting-and-Cleaning-Data-Assignement/blob/master/README.md)
 - [CookBook.md](https://github.com/vivekkranjan/Getting-and-Cleaning-Data-Assignement/blob/master/CodeBook.md)
 
-Instructions
+Instructions:
 
 1. Checkout the code using 'git checkout https://github.com/vivekkranjan/Getting-and-Cleaning-Data-Assignement.git Directory_Name'
 
