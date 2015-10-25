@@ -1,4 +1,5 @@
- 
+# Test run_analysis() 
+
 run_analysis <- function(){
 
           # Get test data 
