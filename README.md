@@ -16,9 +16,9 @@ Instructions:
 
 3. Unzip the data set into Directory_Name and you should see a folder named UCI HAR Dataset in Directory_Name
 
-4. Load RStudio and set your working directory using setwd("Directory_Name")
+4. Load RStudio/R and set your working directory using setwd("Directory_Name")
 
-5. Load the R script using source("run_analysis.txt")
+5. Load the R script using source("run_analysis.R")
 
 6. Run the R script using run_analysis() and after execution of the function has finished, you will see that merged_tidy_data.txt and calculated_tidy_data.txt would have been replaced with the newest outputs.
 
